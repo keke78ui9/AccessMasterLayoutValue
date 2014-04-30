@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessMasterLayoutValue", "AccessMasterLayoutValue\AccessMasterLayoutValue.csproj", "{3E0BCA8F-9CE2-48F0-9A3F-DB4CF5048EB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplication1", "MvcApplication1\MvcApplication1.csproj", "{D795C608-6580-46D3-BCDB-A48AD3A1449B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E0BCA8F-9CE2-48F0-9A3F-DB4CF5048EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E0BCA8F-9CE2-48F0-9A3F-DB4CF5048EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E0BCA8F-9CE2-48F0-9A3F-DB4CF5048EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E0BCA8F-9CE2-48F0-9A3F-DB4CF5048EB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D795C608-6580-46D3-BCDB-A48AD3A1449B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D795C608-6580-46D3-BCDB-A48AD3A1449B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D795C608-6580-46D3-BCDB-A48AD3A1449B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D795C608-6580-46D3-BCDB-A48AD3A1449B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
